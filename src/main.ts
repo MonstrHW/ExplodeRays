@@ -1,4 +1,3 @@
-import './style.css'
 import Ray from "./ray";
 import Vector from "./vector";
 
